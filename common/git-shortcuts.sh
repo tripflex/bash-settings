@@ -1,7 +1,7 @@
 # Git shortcuts
 alias gs='git status; git submodule status'
 alias ga='git add'
-alias gac='git add -a; gc'
+alias gac='git add -A; gc'
 # alias gc='git commit -m'    (See function below)
 alias gull='git pull'
 alias gush='git push'
